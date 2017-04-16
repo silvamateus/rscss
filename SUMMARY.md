@@ -1,19 +1,19 @@
 # Tabela de conteúdos
 
-- [rscss](../README.md)
+- [rscss](README.md)
 - **Componentes**
-  - [About components](components.md)
-  - [Elements](elements.md)
-  - [Variants](variants.md)
-  - [Nested components](nested-components.md)
-  - [Layouts](layouts.md)
-  - [Helpers](helpers.md)
+  - [About components](docs/components.md)
+  - [Elements](docs/elements.md)
+  - [Variants](docs/variants.md)
+  - [Nested components](docs/nested-components.md)
+  - [Layouts](docs/layouts.md)
+  - [Helpers](docs/helpers.md)
 - **Estruturas**
-  - [CSS Structure](css-structure.md)
+  - [CSS Structure](docs/css-structure.md)
 - **Notas**
-  - [Pitfalls](pitfalls.md)
-  - [Apprehensions](apprehensions.md)
-  - [Other resources](other-resources.md)
-- [Summary](summary.md)
+  - [Pitfalls](docs/pitfalls.md)
+  - [Apprehensions](docs/apprehensions.md)
+  - [Other resources](docs/other-resources.md)
+- [Summary](docs/summary.md)
 - **External resources**
-  - [Translations](translations.md)
+  - [Translations](docs/translations.md)
