@@ -30,6 +30,11 @@ Vamos começar aprendendo sobre componentes.
 
 ----
 <!-- {hr: style='display:none'} -->
+Traduzido por [@silvamateus](https://github.com/silvamateus)
+<!-- {p:.pull-box} -->
+
+----
+<!-- {hr: style='display:none'} -->
 
 **rscss** © 2015+, Rico Sta. Cruz. Released under the [MIT] License.<br>
 Authored and maintained by Rico Sta. Cruz with help from contributors ([list][contributors]).
