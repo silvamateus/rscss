@@ -1,16 +1,16 @@
 # Summary
 
 * [Introdução](README.md)
-* [About components](docs/components.md)
-* [Elements](docs/elements.md)
-* [Variants](docs/variants.md)
-* [Nested components](docs/nested-components.md)
+* [Sobre componentes](docs/components.md)
+* [Elementos](docs/elements.md)
+* [Variantes](docs/variants.md)
+* [Componentes aninhados](docs/nested-components.md)
 * [Layouts](docs/layouts.md)
 * [Helpers](docs/helpers.md)
 * [CSS Structure](docs/css-structure.md)
-* [Pitfalls](docs/pitfalls.md)
-* [Apprehensions](docs/apprehensions.md)
+* [Armadilhas](docs/pitfalls.md)
+* [Receios](docs/apprehensions.md)
 * [Other resources](docs/other-resources.md)
 * [Summary](docs/summary.md)
-* [Translations](docs/translations.md)
+* [Traduções](docs/translations.md)
 
