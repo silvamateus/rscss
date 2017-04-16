@@ -1,6 +1,6 @@
 # Tabela de conteúdos
 
-- [rscss](README.md)
+
 - **Componentes**
   - [About components](docs/components.md)
   - [Elements](docs/elements.md)
