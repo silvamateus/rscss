@@ -1,11 +1,11 @@
-# Elements
+# Elementos
 
-Elements are things inside your component.
+Elementos são coisas dentro do seu componente.
 
 ![](images/component-elements.png)
 
-## Naming elements
-Each component may have elements. They should have classes that are only **one word**.
+## Nomeando elementos
+Cada componente deve ter elementos. Eles devem ter classes de apenas **uma palavra**.
 
 ```scss
 .search-form {
@@ -14,8 +14,8 @@ Each component may have elements. They should have classes that are only **one w
 }
 ```
 
-## Element selectors
-Prefer to use the `>` child selector whenever possible. This prevents bleeding through nested components, and performs better than descendant selectors.
+## Seletores de Elemento
+Prefira usar o seletor filho `>` sempre que possível. Isso evita sangramento para elementos aninhados e tem melhor performance que seletores descendentes.
 
 ```scss
 .article-card {
@@ -24,8 +24,8 @@ Prefer to use the `>` child selector whenever possible. This prevents bleeding t
 }
 ```
 
-## On multiple words
-For those that need two or more words, concatenate them without dashes or underscores.
+## Em múltiplas palavras
+Para essas que precisam de duas ou mais palavras, concatene-as sem hífens ou underscores.
 
 ```scss
 .profile-box {
@@ -35,8 +35,8 @@ For those that need two or more words, concatenate them without dashes or unders
 }
 ```
 
-## Avoid tag selectors
-Use classnames whenever possible. Tag selectors are fine, but they may come at a small performance penalty and may not be as descriptive.
+## Evite seletores tag
+Use classnames sempre que possível. Seletores Tag são bons, mas eles podem apresentar uma pequena penalidade de performance e podem não ser tão descritivos.
 
 ```scss
 .article-card {
@@ -45,6 +45,6 @@ Use classnames whenever possible. Tag selectors are fine, but they may come at a
 }
 ```
 
-Not all elements should always look the same. Variants can help.
+Nem todos os elementos devem parecer iguais. Variantes podem ajudar.
 [Continue →](variants.md)
 <!-- {p:.pull-box} -->
