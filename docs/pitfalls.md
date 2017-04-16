@@ -1,7 +1,7 @@
-# Pitfalls
+# Pitfalls(armadilhas)
 
-## Bleeding through nested components
-Be careful about nested components with elements sharing the same name as elements in its container.
+## Sangramento para componentes aninhados
+Seja cuidadoso com componentes aninhados com elementos compartilhando mesmo nome de elementos no container .
 
 ```html
 <article class='article-link'>
@@ -29,4 +29,4 @@ Be careful about nested components with elements sharing the same name as elemen
 }
 ```
 
-In this case, if `.article-link > .count` did not have the `>` (child) selector, it will also apply to the `.vote-box .count` element. This is one of the reasons why child selectors are preferred.
+Neste caso se `.article-link > .count` não tiver o seletor (filho)`>` também aplicará ao elemento`.vote-box .count`. Essa é uma das razões que seletores filho são preferidos.
